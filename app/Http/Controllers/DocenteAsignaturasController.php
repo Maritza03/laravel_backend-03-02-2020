@@ -50,7 +50,7 @@ public function deleteasignacionDocentes(){
 }
 public function updateasignacionDocentes(){
 
-    //this function is the same, what the function create
+    //este mensaje es para saber si se esta guardando los cambios
 }
 }
 
